@@ -4,7 +4,7 @@ public class Exam1
 	{
 		int totalScore ;
 
-		totalScore = 81 ;
+		totalScore = 101 ;
 
 		if ( totalScore <= 79 )
 		{
