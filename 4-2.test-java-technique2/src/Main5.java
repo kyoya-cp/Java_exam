@@ -8,6 +8,10 @@ public class Main5
 		Item item2 = new Item( "美女と野獣", 2000 ) ;
 		Item item3 = new Item( "モアナと伝説の海", 8000 ) ;
 
+		shoppingCart.add( item1 ) ;
+		shoppingCart.add( item2 ) ;
+		shoppingCart.add( item3 ) ;
+
 		total = shoppingCart.getTotalPrice() ;
 		ave = shoppingCart.getAveragePrice() ;
 
