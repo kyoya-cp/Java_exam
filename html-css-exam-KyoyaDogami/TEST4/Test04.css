@@ -1,0 +1,11 @@
+@charset "UTF-8" ;
+
+th.borderTh
+{
+	border: solid;
+}
+
+td.borderTd
+{
+	border: solid;
+}

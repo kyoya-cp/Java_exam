@@ -1,0 +1,64 @@
+@charset "UTF-8" ;
+
+body
+{
+	width: 900px ;
+	height: 800px ;
+}
+
+header
+{
+	height: 15% ;
+	width: 100% ;
+	background-color: aqua ;
+}
+
+main
+{
+	height: 70% ;
+	width: 100% ;
+}
+
+span
+{
+	height: 100% ;
+	width: 100% ;
+}
+
+div.mainWrap
+{
+	height: 100% ;
+	display: flex ;
+}
+
+span.mainMenu
+{
+	width: 20% ;
+	background-color: cadetblue ;
+}
+
+span.mainContent
+{
+	width: 60% ;
+	background-color: indigo ;
+}
+
+span.mainAdvertise
+{
+	width: 20% ;
+	background-color: deepskyblue ;
+}
+
+span.center
+{
+	display: flex ;
+	justify-content: center ;
+	align-items: center ;
+}
+
+footer
+{
+	height: 15% ;
+	width: 100% ;
+	background-color: aquamarine ;
+}
